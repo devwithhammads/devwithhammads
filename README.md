@@ -52,10 +52,6 @@
 
 <br/>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
